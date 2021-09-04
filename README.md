@@ -1,7 +1,7 @@
 # React Tailwind Starter
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/783903973878136843/883583890965545020/1_1-zdwf7FmfzCQ1IEw-XGbg-removebg-preview.png" alt="Material Bread logo">
+  <img src="https://cdn.discordapp.com/attachments/783903973878136843/883583890965545020/1_1-zdwf7FmfzCQ1IEw-XGbg-removebg-preview.png" alt="react+tailwind">
 </p>
 
 
@@ -51,6 +51,11 @@ module.exports = {
 } 
 ```
 
-You can add more plugins read here (Carco Docs)["https://www.npmjs.com/package/@craco/craco]
-      
+You can add more plugins read here [Carco Docs]("https://www.npmjs.com/package/@craco/craco)
+
+<p align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/783903973878136843/883587565867925514/download-removebg-preview.png" alt="happy coding">
+</p>
+
 
