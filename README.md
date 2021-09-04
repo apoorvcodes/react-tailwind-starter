@@ -48,7 +48,8 @@ module.exports = {
 	    ],
 	  },
 	},
-} ```
+} 
+```
 
 You can add more plugins read here (Carco Docs)["https://www.npmjs.com/package/@craco/craco]
       
