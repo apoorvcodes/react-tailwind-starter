@@ -15,4 +15,24 @@
  yarn start
  
  ```
-  
+ 
+ # Custimization 
+ 
+ ## Tailwind Config
+ ```js
+ module.exports = {
+  purge: [],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {},
+  },
+  variants: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+Note : You can add ```js 
+purge: ["/src/**/*.{js,jsx,ts,tsx}', './public/index.html"] ```
+to remove unused stylings for better performance
+
