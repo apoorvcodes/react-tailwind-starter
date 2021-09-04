@@ -32,9 +32,24 @@
   plugins: [],
 }
 ```
-Note : You can add 
+Note : You can add this config to remove unused stylings for better performance 
 ```js 
 purge: ["/src/**/*.{js,jsx,ts,tsx}', './public/index.html"] 
 ```
-to remove unused stylings for better performance
+## Carco Config 
+
+```js
+module.exports = {
+	style: {
+	  postcss: {
+	    plugins: [
+	      require('tailwindcss'),
+	      require('autoprefixer'),
+	    ],
+	  },
+	},
+} ```
+
+You can add more plugins read here (Carco Docs)["https://www.npmjs.com/package/@craco/craco]
+      
 
