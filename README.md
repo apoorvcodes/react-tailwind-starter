@@ -7,7 +7,6 @@
 
  # Setup 💻
 
- <p align="center">
  ```bash
  git clone https://github.com/apoorvcodes/react-tailwind-starter/
  
@@ -16,4 +15,4 @@
  yarn start
  
  ```
-  </p>
+  
