@@ -32,7 +32,9 @@
   plugins: [],
 }
 ```
-Note : You can add ```js 
-purge: ["/src/**/*.{js,jsx,ts,tsx}', './public/index.html"] ```
+Note : You can add 
+```js 
+purge: ["/src/**/*.{js,jsx,ts,tsx}', './public/index.html"] 
+```
 to remove unused stylings for better performance
 
