@@ -16,9 +16,9 @@
  
  ```
  
- # Custimization 
+ # Customization 
  
- ## Tailwind Config
+ ## Tailwind Configuration
  ```js
  module.exports = {
   purge: [],
@@ -36,7 +36,7 @@ Note : You can add this config to remove unused stylings for better performance
 ```js 
 purge: ["/src/**/*.{js,jsx,ts,tsx}', './public/index.html"] 
 ```
-## Carco Config 
+## Carco Configuration
 
 ```js
 module.exports = {
